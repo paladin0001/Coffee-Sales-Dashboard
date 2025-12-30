@@ -57,5 +57,4 @@ The dashboard is designed with usability and business insights in mind.
 
 ---
 
-## 📂 Repository Structure
 
